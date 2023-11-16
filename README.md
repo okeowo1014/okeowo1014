@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**okeowo1014/okeowo1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Okeowo Clinton, a Software Developer  based in Nigeria 🚀
+Welcome to my GitHub space! I'm passionate about crafting meaningful digital experiences through code. Let me give you a brief tour of my skills and journey:
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
+- **Backend:** PHP, Javascript Django, Flask, Django Rest Framework
+- **Mobile:** Dart, Flutter, React Native
+- **Machine Learning:** Python, Scikit-learn
+- **Data Science:** Python
+- **Data Analytics:** Python, Power Bi, Excel, tableau
+- **Artificial Intelligence:** Python, Image Classification
+  
+## 💼 Education
+I'm Self Taught
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+I'm currently immersed in mobile app development with Flutter, delving into the latest technologies and frameworks to stay on the cutting edge and broaden my skill set and also artificial intelligence models.
+
+## 📫 Let's Connect!
+- **LinkedIn:**https://www.linkedin.com/in/okeowo-clinton
+- **Email:** okewowo1014@gmail.com
+- **Instagram:** https://instagram.com/okeowo1014?utm_source=qr&igshid=MzNINGNkZWQ4Mg==
+
+Feel free to explore my repositories, where I've poured my heart and soul into various projects. I'm always open to collaboration and discussions. Let's connect and create something amazing together! 🚀
+
